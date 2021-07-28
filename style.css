@@ -1,0 +1,245 @@
+div.d{
+          text-align: center;
+        font-size: 15px;
+         background-color:#D2FFCF;
+       }
+    div.a {
+    text-align: center;
+      font-size: 30px;
+      }
+      div.r {
+    text-align: center;
+      font-size: 20px;
+    color:#000000
+      }
+       div.e{
+          text-align: center;
+         font-size: 30px;
+          color: lightgrey;
+      }
+      a:link {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+      a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: grey;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+      .free a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+      .free a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.free a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: ;
+}
+.free a:active {
+  color: red;
+  background-color: transparent;
+  text-decoration: ;
+}
+      
+       .hello a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+      .hello a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+.hello a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: ;
+}
+.hello a:active {
+  color: blue;
+  background-color: transparent;
+  text-decoration: ;
+}
+      
+      div.f{
+          font-size: 15px;
+        text-align: left;
+        text-indent: 200px;
+        background-color: transparent;
+        background:30% auto;
+        width:100%;
+      }
+       div.g{
+          font-size: 15px;
+        text-align: left;
+        text-indent: 800px;
+        background-color: transparent;
+        background:30% auto;
+        width:100%;
+      }
+      .button {
+  border: #000000;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: #000000;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+      .button1 {border-radius: 40px;}
+      div.b {
+    text-align: center;
+      font-size: 12px;
+      }
+      .button2{
+         border-radius:40px;
+        margin: 0 ;
+        color:white;
+        background-color: red;
+        font-size: 20px;
+      }
+      .button3{
+         width: 90%;
+         border-radius:30px;
+        margin: 0 ;
+        color:black;
+        background-color: lightgrey;
+        font-size: 20px;
+      }
+       #right{  
+        text-align:right;}
+      #left{  
+        text-align:left;}
+      div.active{
+         text-align: left;
+         font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-switcher-menu{
+        text-align: right;
+         font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-section-label{
+         text-align: right;
+       font-size: 20px;
+       color: grey;
+      }
+      div.product-tour-menu-item active{
+         text-align: right;
+       font-size: 20px;
+        color: grey;
+        text-decoration: #000000;
+      }
+      product-tour-menu-title {
+       
+         text-align: right;
+          font-size: 20px;
+        color: grey;
+      }
+      div.product-tour-title{
+         text-align: right;
+          font-size: 20px;
+        color: black;
+      }
+      div.c{
+        text-align: right;
+       font-size: 20px;
+      }
+      div.rcorners2 {
+        
+  border-radius: 25px;
+  border: 3px solid #a9a9a9;
+  padding: 20px; 
+  width: 300px;
+  height: 500px;  
+}
+      div.image {
+  width: 100%;
+  height: 200px;
+  background-image: url('https://static-cms.hotjar.com/original_images/brand-personas-marketers.webp');
+  background-size: cover;
+  border: 1px ;
+}
+       div.image1 {
+  width: 100%;
+  height: 200px;
+  background-image: url('https://static-cms.hotjar.com/original_images/brand-personas-product-managers.webp');
+  background-size: cover;
+  border: 1px ;
+} 
+        div.image2 {
+  width: 100%;
+  height: 200px;
+  background-image: url('https://static-cms.hotjar.com/original_images/brand-personas-ux-designers.webp');
+  background-size: cover;
+  border: 1px ;
+}
+       div.image3 {
+  width: 50%;
+  height: 600px;
+  background-position: center;
+  background-image: url('https://static-cms.hotjar.com/documents/brand-one-script_Twj5bMZ.svg');
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px ;
+}
+            div.image4 {
+  width: 50%;
+  height: 600px;
+  background-position: center;
+  background-image: url('https://static-cms.hotjar.com/original_images/brand-get-started-mobile.webp');
+  background-repeat: no-repeat;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px ;
+}
+     
+      div.newspaper {
+        column-count: 3;
+      }
+        div.more {
+          width: 100%;
+  height: 200px;
+        } 
+        
+      .flex-container {
+  display: flex;
+ background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 40px;
+  padding: 20px;
+  font-size: 30px;
+}
+  .navbar {
+  display: flex;
+ 
+}
+      
+   
